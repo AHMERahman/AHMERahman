@@ -1,13 +1,12 @@
 <div align="center">
-<!--pUT YOUR NAME INSTEAD OF mY name, + represent 1 space  -->
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Md+Abdullah+Al+Numan...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
-
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
-<h3 align="center">You can Hire me AS</h3>
+ <h3 align="center">You can Hire me As</h3> 
 <!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
 <h2 align="center">
-  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20|%20;&center=true&width=500&height=50"></a>
+<a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
@@ -16,11 +15,9 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a title = "646-639-6008" href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
-
+&nbsp;
 <a title = "alnumanqa@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
-
-<!-- Use your linkedin account url at href -->
-
+&nbsp; <!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 
 <!-- <a href="https://twitter.com/@rasel__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
@@ -132,7 +129,7 @@
 
 <div align="center">
 &nbsp;
-<h1 align="center">About Me & My Future Plan</h1>
+<h1 align="center">All About Me</h1>
   
 <!-- <img width="105" height="105" src="" /> -->
 
@@ -151,8 +148,8 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
     Portfolio
     </h1>
    <!-- Inside href we will give our profile, also you write your name instead of mine -->
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
-  
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Al Numan`</a>
+  <br>
   <!-- <h3 align="center">
     my creation another website 
     </h2>
@@ -173,16 +170,16 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 <!-- 
 `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
 `frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
-
+-->
   <div align="center">
 <img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
-<hr> -->
+<hr>
 
   <!-- most used language  -->
 
-<!-- &nbsp;**This week I spent my time on** -->
+&nbsp;**This week I spent my time on**
 
  <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeamin&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
@@ -190,10 +187,9 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 <!-- wakatime  -->
 <!--START_SECTION:waka-->
 
- <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
+  ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg) 
 
-<!-- insted of alnumanqa, you use your github username-->
-<img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@alnumanqa/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
+<img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg">
 
 </p>
 
